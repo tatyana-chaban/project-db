@@ -90,8 +90,6 @@ public class DBService {
             session.getTransaction().commit();
             return allCities;
         }
-
-
     }
 
     public void pushToRedis(List<CityCountry> data) {
@@ -104,7 +102,6 @@ public class DBService {
                     e.printStackTrace();
                 }
             }
-
         }
     }
 
