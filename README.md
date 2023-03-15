@@ -12,7 +12,7 @@ Redis(in-memory key-value data store).
 
 Result
 ----------
-
+<img width="1010" alt="Снимок экрана 2023-03-15 в 15 15 24" src="https://user-images.githubusercontent.com/105919648/225336727-e0a6bc75-e806-4278-a815-067f8f9de825.png">
 
 Application entry point
 ---------
